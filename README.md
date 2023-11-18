@@ -12,35 +12,45 @@ Ao todo são 10 questões para a prática da lógica envolvendo médias, mediana
 ## ⬇️Questões da Lista
 
 **Questão 1**
+
 <img src="https://i.ibb.co/23v9XgF/q1-Pyhton-DS.png">
 
 **Questão 2**
+
 <img src="https://i.ibb.co/9qxBW31/q2-Python-DS.png">
 
 **Questão 3**
+
 <img src="https://i.ibb.co/hB9Qd6S/q3-Python-DS.png">
 
 **Questão 4**
+
 <img src="https://i.ibb.co/9srzNPD/q4-Python-DS.png">
 
 **Questão 5**
+
 <img src="https://i.ibb.co/19RZgLY/q5-Python-DS.png">
 
 **Questão 6**
+
 <img src="https://i.ibb.co/NSjzWBp/q6-Python-DS.png">
 
 **Questão 7**
+
 <img src="https://i.ibb.co/TRsTyCX/q7-Python-DS.png">
 
 **Questão 8**
+
 <img src="https://i.ibb.co/tMFV0tq/q8-Python-DS.png">
 
 **Questão 9**
+
 <img src="https://i.ibb.co/mJqTHb7/q9-Python-DS-pt1.png">
 
 <img src="https://i.ibb.co/ZJKCWSm/q9-Python-DS-pt2.png">
 
 **Questão 10**
+
 <img src="https://i.ibb.co/qyYs5nc/q10.png">
 
 ****
